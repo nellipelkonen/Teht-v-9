@@ -8,4 +8,4 @@ Facebook
 
 Jos et halua että jokainen näkee tietosi, voit mennä asetuksiin ja muuttaa yksityisyysasetuksia. Voit laittaa asetuksen joka antaa vain ystävillesi oikeudet nähdä tietosi. Tai halutessasi tehdä niin ettei kukaan pääse niitä näkemään.
 
-[I'm an inline-style link](https://www.facebook.com)
+[*Facebook*](https://www.facebook.com)
